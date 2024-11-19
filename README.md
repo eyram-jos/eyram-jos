@@ -26,7 +26,7 @@ Développement d'une plateforme de streaming dédiée aux productions africaines
 
 - **Technologies Web** : Développement front-end, Conception de sites web, React
 - **Langages de programmation** : HTML, CSS, JavaScript
-- **Outils** : Git, GitHub
+- **Outils** : Git, GitHub, Adobe Photoshop, Figma
 - **Systèmes et Réseaux** : Notions acquises lors de mes études en Génie Logiciel
 - **Langues** :  
   - Français : Courant  
