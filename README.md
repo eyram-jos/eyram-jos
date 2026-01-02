@@ -33,6 +33,15 @@ Mon objectif est de bâtir des solutions numériques utiles, bien structurées e
 
 ---
 
+## 🤝 Compétences transversales (Soft Skills)
+- Leadership et gestion d’équipe
+- Travail collaboratif
+- Communication institutionnelle
+- Organisation et prise de décision
+- Sens des responsabilités
+
+---
+
 ## 📂 Projets principaux
 
 ### 🎬 OGFlicks (2024 — en cours)
