@@ -57,6 +57,9 @@ Plateforme de streaming dédiée aux productions africaines.
 ### 🌐 Portfolio personnel
 👉 https://eyram-jos.github.io/portfolio-joseph-ogoubi/
 
+### 🌐 Linkedln
+👉 https://www.linkedin.com/in/joseph-ogoubi/
+
 Présente mon profil, mes compétences et mes projets.
 
 ---
